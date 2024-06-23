@@ -1,1 +1,1 @@
-Developing an alogrithim for a spotify related project
+Developing an alogrithim for a data structures project
